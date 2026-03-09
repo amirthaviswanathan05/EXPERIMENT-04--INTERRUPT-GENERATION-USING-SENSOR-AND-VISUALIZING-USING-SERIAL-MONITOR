@@ -2,8 +2,8 @@
 
 ###  DATE: 8/3/2025
 
-###  NAME: REENA K
-###  ROLL NO :212224040272
+###  NAME: AMIRTHAVARSHINI V
+###  ROLL NO : 212223040014
 ###  DEPARTMENT: CSE
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
